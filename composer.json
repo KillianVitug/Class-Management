@@ -1,0 +1,15 @@
+{
+    "name": "user/class_management",
+    "autoload": {
+        "psr-4": {
+            "User\\ClassManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitug Killian",
+            "email": "killianjarelvitug@yahoo.com"
+        }
+    ],
+    "require": {}
+}
